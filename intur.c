@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include "slau.h"
 
 #define PI 3.14159265358979323846264338327950288419716939937510L
 #define N 2000 //parametr of algorithm
+
+long double *slau(long n, long double (*matrix)[n + 1]);
 
 static const int A = -20, B = 20; //parametrs of algorithm
 
