@@ -1,2 +1,2 @@
 # Fredholm-equation
-Numerical solution of integral equation
+Numerical solution of the inhomogeneous integral Fredholm equations of the second kind.
